@@ -1,0 +1,7 @@
+放上檔案
+git add .
+git commit -m"name"
+git push -u origin
+複製檔案
+git clone "網址"
+(git pull)
