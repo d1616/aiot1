@@ -1,7 +1,7 @@
 放上檔案
 git add .
 git commit -m"name"
-git push -u origin
+git push -u origin (main)
 複製檔案
 git clone "網址"
 (git pull)
@@ -10,5 +10,5 @@ git clone "網址"
 打開anaconda
 conda create --name 名字 python=3.7
 啟動
-conda acticate 名字
+conda activate 名字
  
