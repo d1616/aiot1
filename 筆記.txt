@@ -11,4 +11,9 @@ git clone "網址"
 conda create --name 名字 python=3.7
 啟動
 conda activate 名字
+
+作業
+http://aiot.kaitechstudio.com
+
+ID=ttu學號
  
