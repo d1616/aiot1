@@ -18,7 +18,7 @@ pip install -r 路徑\requirements.txt
 
 
 作業
-http://aiot.kaitechstudio.com
+http://aiot.kaitechstudio.com/LoginNew
 
 ID=ttu學號
  
